@@ -1,0 +1,5 @@
+C:\Users\kompm\Desktop\Notepad.exe
+C:\Users\kompm\Desktop\Notepad.dll
+C:\Users\kompm\Desktop\Notepad.deps.json
+C:\Users\kompm\Desktop\Notepad.runtimeconfig.json
+C:\Users\kompm\Desktop\Notepad.pdb

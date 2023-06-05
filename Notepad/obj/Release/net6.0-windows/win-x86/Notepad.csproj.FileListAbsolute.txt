@@ -1,0 +1,17 @@
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\bin\Release\net6.0-windows\win-x86\Notepad.exe
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\bin\Release\net6.0-windows\win-x86\Notepad.deps.json
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\bin\Release\net6.0-windows\win-x86\Notepad.runtimeconfig.json
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\bin\Release\net6.0-windows\win-x86\Notepad.dll
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\bin\Release\net6.0-windows\win-x86\Notepad.pdb
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.csproj.AssemblyReference.cache
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.Mainform.resources
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.csproj.GenerateResource.cache
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.AssemblyInfoInputs.cache
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.AssemblyInfo.cs
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.dll
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\refint\Notepad.dll
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.pdb
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\Notepad.genruntimeconfig.cache
+C:\Users\kompm\Desktop\zadania\Notepad\Notepad\obj\Release\net6.0-windows\win-x86\ref\Notepad.dll
